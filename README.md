@@ -21,7 +21,8 @@ Welcome to my personal portfolio! This site showcases my projects, skills, and e
 
 ## 📸 Live Demo
 
-[Click here to view the site](https://github.com/Eva2992/Portfolio.git)  
+[Click here to view the site]
+(https://github.com/Eva2992/Portfolio.git)  
 
 ---
 
